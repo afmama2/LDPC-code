@@ -1,0 +1,4 @@
+function c=boxplus(a,b)
+        c=sign(a)*sign(b)*log(atanh(10.^))+log(2);  % SPA
+%         c=sign(a)*sign(b)*min(abs(a),abs(b));                                                % MSA
+end
